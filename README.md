@@ -38,13 +38,13 @@ To run the e-commerce console app, follow these steps:
 
 To run the e-commerce console app, follow these steps:
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine and run main.java:
 
    ```bash
    git clone https://github.com/achrefbenammar546372819/ExamenJava.git
 
    cd oop-tp-e-commerce/Application
    javac main.java
-   java main
+   java Main
 
 
