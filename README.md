@@ -34,7 +34,17 @@ This repository contains the code for a console application developed as part of
 
 To run the e-commerce console app, follow these steps:
 
+## Getting Started
+
+To run the e-commerce console app, follow these steps:
+
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/oop-tp-e-commerce.git
+   git clone https://github.com/achrefbenammar546372819/ExamenJava.git
+
+   cd oop-tp-e-commerce/Application
+   javac main.java
+   java main
+
+
